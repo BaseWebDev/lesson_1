@@ -46,7 +46,7 @@ namespace lesson_1 {
                 Console.WriteLine("\t " + key.Disciple);
             }
             Console.WriteLine();           
-            Console.ReadKey();
+            // Console.ReadKey(); // Crtl+F5
         }
 
 
